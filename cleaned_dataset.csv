@@ -1,0 +1,11 @@
+StudentID,Gender,Age,MathScore,ReadingScore,WritingScore,Attendance,Passed,Outlier_Flag
+1.0,Female,20.0,78.0,85.0,80.0,92.0,Yes,False
+2.0,Male,21.0,65.0,70.0,68.0,88.0,Yes,False
+3.0,Female,19.0,,90.0,88.0,95.0,Yes,False
+4.0,Male,22.0,45.0,50.0,48.0,76.0,No,False
+5.0,Female,20.0,88.0,92.0,90.0,98.0,Yes,False
+6.0,Male,21.0,55.0,,58.0,82.0,No,False
+7.0,Female,23.0,72.0,75.0,78.0,85.0,Yes,False
+8.0,Male,20.0,90.0,88.0,92.0,97.0,Yes,False
+9.0,Female,22.0,60.0,65.0,,80.0,No,False
+10.0,Male,19.0,35.0,40.0,38.0,70.0,No,False
